@@ -3,7 +3,6 @@
 
 <p align="center">
   ![listodo](/overview.png)
-  <img/>
 </p>
 
 ## Table of contents
