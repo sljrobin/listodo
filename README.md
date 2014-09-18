@@ -1,7 +1,10 @@
 # listodo
 [listodo] helps to visualize and have a simple overview of all the TODO of a source code.
 
-<center>![listodo](/overview.png)</center>
+<p align="center">
+  ![listodo](/overview.png)
+  <img/>
+</p>
 
 ## Table of contents
 * [Requirements]
