@@ -2,7 +2,7 @@
 [listodo] helps to visualize and have a simple overview of all the TODO of a source code.
 
 <p align="center">
-  ![listodo](/overview.png)
+  <img src="https://github.com/sljrobin/listodo/blob/master/overview.png" alt="listodo"/>
 </p>
 
 ## Table of contents
