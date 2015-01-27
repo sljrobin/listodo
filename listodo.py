@@ -20,7 +20,7 @@ def check_args():
     Check the number of arguments
     Check if the source file exists
     """
-    # Check there are one argument
+    # Check there is one argument
     if len(sys.argv) < 2:
         sys.exit(Back.RED + Fore.WHITE + "ERROR: incorrect argument!\nUsage: %s source_code" % sys.argv[0] + Style.RESET_ALL)
 
