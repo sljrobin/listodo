@@ -1,4 +1,6 @@
 # listodo
+> :warning: __This project is no longer actively maintained__: feel free to [contact me](https://sljrobin.org) if you need more information.
+
 [listodo] helps to visualize and have a simple overview of all the TODO of a source code.
 
 <p align="center">
